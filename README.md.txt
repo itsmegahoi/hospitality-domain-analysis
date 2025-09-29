@@ -1,14 +1,15 @@
-Week-on-Week (WoW) is a type of business metric that measures changes in a specific variable over a period of one week compared to the previous week. 
-It is a common way of tracking business performance over time and is particularly useful for analyzing trends and identifying areas where improvements can be made.
+🏨 Hospitality Domain Data Analysis (Power BI)
+This project focuses on analyzing hotel performance data in the hospitality industry using Power BI.
+The main goal is to measure week-on-week (WoW) changes across key business metrics to track performance, identify trends, and highlight improvement areas.
 
+📊 Key Metrics Analyzed (WoW Change %)
 
-Here are the metrics for which we found the WoW change% in this video:
-1. Revenue WoW change %: To get the revenue change percentage week over week.
-2. Occupancy WoW change %: To get the occupancy change percentage week over week.
-3. ADR WoW change %: To get the ADR (Average Daily rate) change percentage week over week.
-4. RevPAR WoW change %: To get the RevPAR (Revenue Per Available Room) change percentage week over week.
-5. Realisation WoW change %: To get the Realisation change percentage week over week.
-6. DSRN WoW change %: To get the DSRN (Daily Sellable Room Nights) change percentage week over week.
+Revenue – Percentage change in revenue compared to the previous week.
+Occupancy – Percentage change in hotel occupancy rates.
+ADR (Average Daily Rate) – Change in the average revenue earned per occupied room.
+RevPAR (Revenue Per Available Room) – Change in overall room revenue efficiency.
+Realisation – Change in realized revenue after cancellations/refunds.
+DSRN (Daily Sellable Room Nights) – Change in available room inventory sold.
 
 
 This file contains all the meta information regarding the columns described in the CSV files. we have provided 5 CSV files:
